@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# 完整通关录像体积较大，仅本地保留供上传社媒
+media/demo-chapter1.mp4
